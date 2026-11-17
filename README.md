@@ -1,15 +1,6 @@
 # 🏦 BankerOS — Interactive Banker's Algorithm & Deadlock Avoidance Simulator
 
-> **A visionOS & Apple Liquid Glass inspired educational operating systems laboratory for simulating, visualizing, and mastering Dijkstra's Banker's Algorithm and Deadlock Avoidance.**
 
-[![React](https://img.shields.io/badge/React-18.3-blue.svg)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-6.2-646CFF.svg)](https://vitejs.dev/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC.svg)](https://tailwindcss.com/)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-11.18-f08.svg)](https://www.framer.com/motion/)
-[![Tests Passing](https://img.shields.io/badge/Tests-100%25_Passing-brightgreen.svg)]()
-[![Type](https://img.shields.io/badge/Architecture-Frontend--Only_Client--Side-informational.svg)]()
-
----
 
 ## 🌟 Executive Overview
 
